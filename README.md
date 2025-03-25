@@ -1,6 +1,6 @@
 # Comparative Stock & Revenue Dashboard
 
-This repository provides a complete project for extracting and visualizing historical stock price data and revenue data for Tesla and GameStop.
+This repository was uploaded as part of a practical assignment for the IBM Data Science Professional Certificate program on Coursera. It contains a Jupyter Notebook that demonstrates skills in data extraction, cleaning, and visualization by extracting historical stock and revenue data for Tesla and GameStop using yfinance and web scraping techniques. The notebook then builds interactive dashboards with Plotly to compare stock prices with revenue, showcasing applied data science methods. For more details about the program, please visit [IBM Data Science Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science?gad_source=1&gclid=Cj0KCQjwqIm_BhDnARIsAKBYcmvL-6YjQ7fQXgBl3hciO2TDb0Q2Lkk6qqfkUGhclSGThZW0PTgRcBIaAr48EALw_wcB#instructors?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_x&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6484888893&targetid=&extensionid=&placement=).
 
 ## Project Overview
 
